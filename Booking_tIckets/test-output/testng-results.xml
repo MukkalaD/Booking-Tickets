@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-10-18T02:19:38Z" name="Default suite" finished-at="2018-10-18T02:19:38Z" duration-ms="61">
+    <groups>
+    </groups>
+    <test started-at="2018-10-18T02:19:38Z" name="Default test" finished-at="2018-10-18T02:19:38Z" duration-ms="61">
+      <class name="exploretickets.TestNg">
+        <test-method is-config="true" signature="setup()[pri:0, instance:exploretickets.TestNg@3af9c5b7]" started-at="2018-10-18T02:19:38Z" name="setup" finished-at="2018-10-18T02:19:38Z" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:exploretickets.TestNg@3af9c5b7]" started-at="2018-10-18T02:19:38Z" name="launchbrowser" finished-at="2018-10-18T02:19:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:exploretickets.TestNg@3af9c5b7]" started-at="2018-10-18T02:19:38Z" name="login" finished-at="2018-10-18T02:19:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="Google()[pri:0, instance:exploretickets.TestNg@3af9c5b7]" started-at="2018-10-18T02:19:38Z" name="Google" finished-at="2018-10-18T02:19:38Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Google -->
+        <test-method is-config="true" signature="enterURL()[pri:0, instance:exploretickets.TestNg@3af9c5b7]" started-at="2018-10-18T02:19:38Z" name="enterURL" finished-at="2018-10-18T02:19:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:exploretickets.TestNg@3af9c5b7]" started-at="2018-10-18T02:19:38Z" name="logOut" finished-at="2018-10-18T02:19:38Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:exploretickets.TestNg@3af9c5b7]" started-at="2018-10-18T02:19:38Z" name="closebrowser" finished-at="2018-10-18T02:19:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="deletecookies()[pri:0, instance:exploretickets.TestNg@3af9c5b7]" started-at="2018-10-18T02:19:38Z" name="deletecookies" finished-at="2018-10-18T02:19:38Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecookies -->
+        <test-method is-config="true" signature="generatereport()[pri:0, instance:exploretickets.TestNg@3af9c5b7]" started-at="2018-10-18T02:19:39Z" name="generatereport" finished-at="2018-10-18T02:19:39Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generatereport -->
+      </class> <!-- exploretickets.TestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
